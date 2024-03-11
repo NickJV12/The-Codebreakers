@@ -5,7 +5,7 @@ Team members name:
 1. Saksham Singh <Github ID: KnuckleB0II,GithubLink: https://github.com/KnuckleB0ll> 
 2. Shambhavi Mishra <Github ID: NickJV12,GithubLink: https://github.com/NickJV12>
 3. Suvendra Singh <Github ID: suvsingh7,GithubLink: https://github.com/suvsingh7>
-4. Swetabh Salampuria
+4. Swetabh Salampuria <Github ID: Swetabh48,GithubLink: https://github.com/Swetabh48>
 5. https://github.com/NickJV12/The-Codebreakers
 
 PROPOSED FEATURES
@@ -37,3 +37,4 @@ TECH STACK
 3. ReactJs
 4. NodeJs
 5. JWT Authentication
+6. HTML, CSS, Javascript

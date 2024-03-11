@@ -37,5 +37,5 @@ TECH STACK
 3. ReactJs
 4. NodeJs
 5. JWT Authentication
-6. HTML, CSS, Javascript
+6. Frontend: React, Tailwind
 7. Web Development
